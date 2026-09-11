@@ -1,0 +1,6 @@
+{
+  "name": "Safarpra - Voyage & Horaires de Prière",
+  "description": "Planificateur d'itinéraires de voyage multimodal (avion, train, bateau, voiture) respectant les horaires de prière islamiques, escales et règles du voyageur.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
